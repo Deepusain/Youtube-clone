@@ -17,10 +17,10 @@ Other Tools: React Router, Axios, etc.
 
 # Installation
 > Clone the repository:
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Deepusain/Youtube-clone.git
 
 > Navigate to the project directory:
-cd your-repo-name
+cd Youtube-clone.
 
 > Install dependencies:
 npm install
